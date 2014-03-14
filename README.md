@@ -1,5 +1,5 @@
-#BitPay Team
-
+BitPay Team
+===
 
 ##Staff
 
