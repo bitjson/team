@@ -1,8 +1,9 @@
 {
-  "name": "Ian Patton",
-  "goesBy":"Ian",
-  "role": "Senior Software Engineer",
-  "bio": "",
-  "twitter": "",
-  "pgpFingerprint": "9C92 78E0 4468 B5B3 DC64 7DB2 3476 3AA4 1D7F F943"
+  "name":           "Ian Patton",
+  "goesBy":         "Ian",
+  "role":           "Senior Software Engineer",
+  "bio":            "",
+  "twitter":        "",
+  "pgpFingerprint": "9C92 78E0 4468 B5B3 DC64 7DB2 3476 3AA4 1D7F F943",
+  "image":          "ian.jpg"
 }
