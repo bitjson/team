@@ -2,8 +2,10 @@
   "name": "Gordon Hall",
   "goesBy":"Gordon",
   "role": "Senior Software Engineer",
-  "bio": "",
-  "twitter": "",
+  "bio": "Free software advocate, GNU fanboy, and hacker of all the things",
+  "image": "gordon.jpg",
+  "linkedin": "gordonwritescode",
+  "twitter": "sp0rkyd0rky",
   "github": "gordonwritescode",
   "pgpFingerprint": "4148 F787 4CBF 929A D04C 8C24 64DF 47BC A16D 6154"
 }

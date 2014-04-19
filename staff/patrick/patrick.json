@@ -1,8 +1,9 @@
 {
-  "name": "Patrick Nagurny",
-  "goesBy":"Patrick",
-  "role": "Senior Software Engineer",
-  "bio": "",
-  "twitter": "",
-  "pgpFingerprint": "395E DB7B F74A EB93 98FD 70B5 0909 B33F 0AA5 3013"
+  "name":           "Patrick Nagurny",
+  "goesBy":         "Patrick",
+  "role":           "Senior Software Engineer",
+  "bio":            "",
+  "twitter":        "",
+  "pgpFingerprint": "395E DB7B F74A EB93 98FD 70B5 0909 B33F 0AA5 3013",
+  "image":          "patrick.jpg"
 }

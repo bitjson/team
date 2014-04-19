@@ -3,7 +3,8 @@
   "goesBy":         "John",
   "role":           "West Coast Operations",
   "bio":            "",
-  "twitter":        "",
+  "twitter":        "johndreyzehner",
   "github":         "",
-  "pgpFingerprint": "EE1E 2D2D 40D8 691E 6589 027E 7F1A F393 EAD9 7028"
+  "pgpFingerprint": "EE1E 2D2D 40D8 691E 6589 027E 7F1A F393 EAD9 7028",
+  "image":          "john.jpg"
 }
